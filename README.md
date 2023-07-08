@@ -1,4 +1,4 @@
-[![MasterHead](https://seeklogo.com/images/D/devops-logo-CDF1353483-seeklogo.com.png)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/C5612AQGrGJ4wzEGg7w/article-cover_image-shrink_600_2000/0/1520170566536?e=2147483647&v=beta&t=ld2PGtviDOU4NcWGn1kLc-IDlZbuHLSzRhCq2hpG-0c)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Udofia, Michael Daniel (_KeLLs)</h1>
 <h3 align="center">A passionate Cloud Solutions Architect/DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
